@@ -1,0 +1,8 @@
+
+
+% content 'XXX' => begin
+HI1
+% end
+
+%= content 'XXX'
+BUY

@@ -1,0 +1,9 @@
+% extends 'base';
+
+% content content => begin
+C2
+% end
+
+% content 'XXX' => begin
+HI2
+% end
